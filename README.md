@@ -1,6 +1,6 @@
 # Getting Started with Create NW.js React App
 
-This project was bootstrapped with [Create NW.js React App](https://github.com/naviapps/create-nw-react-app).
+![Capture](https://user-images.githubusercontent.com/61979889/130870722-83b7d476-1117-4917-a6f9-e8566f055784.JPG)
 
 ## Available Scripts
 
