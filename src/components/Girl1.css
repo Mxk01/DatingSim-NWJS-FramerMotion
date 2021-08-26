@@ -24,6 +24,7 @@
   flex-direction: column;
   color: white;
   padding: 2rem;
+  flex-wrap: wrap;
   justify-content: flex-start;
 
   font-family: "Raleway", sans-serif;
