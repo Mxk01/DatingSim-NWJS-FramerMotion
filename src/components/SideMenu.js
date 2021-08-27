@@ -3,15 +3,7 @@ import './SideMenu.css'
 import {motion} from 'framer-motion'
 import {Link} from 'react-router-dom'
 function SideMenu() {
-   useEffect(()=>{
-       let playAudio = () => {
-        let audio = new Audio('../dating-fever.mp3');
-        audio.play();
-       }
 
-       playAudio()
-   },[])
-   
     return (
         <motion.div 
         animate={{width:'100vw'}}
