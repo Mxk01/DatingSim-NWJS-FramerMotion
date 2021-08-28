@@ -1,6 +1,7 @@
 # Getting Started with Create NW.js React App
 
 ![Capture](https://user-images.githubusercontent.com/61979889/130870722-83b7d476-1117-4917-a6f9-e8566f055784.JPG)
+![girl](https://user-images.githubusercontent.com/61979889/131208011-b83e72cf-9dbc-4113-ad3e-822598d18908.png)
 
 ## Available Scripts
 
