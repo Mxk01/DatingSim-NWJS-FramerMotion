@@ -1,1 +1,11 @@
- 
+.loadingScreen {
+  height: 100vh;
+  width: 100vw;
+  font-size: 4rem;
+  font-family: "Raleway", sans-serif;
+  background-color: rgb(255, 255, 255);
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
